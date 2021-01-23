@@ -1,6 +1,6 @@
 import Follow from "./components/Follow/Follow";
 import Header from "./components/Header/Header";
-import { Container, LeftContent } from "./styles";
+import { Container, LeftContent } from "../styles/styles";
 import Stories from "./components/Stories/Stories";
 import Feed from "./components/Feed/Feed";
 
