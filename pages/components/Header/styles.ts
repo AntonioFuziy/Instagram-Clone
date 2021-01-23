@@ -13,6 +13,10 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-around;
+
+  @media (max-width: 750px){
+    justify-content: space-between;
+  }
 `;
 
 export const Logo = styled.img`
@@ -32,5 +36,4 @@ export const SearchBar = styled.input`
 
 export const Actions = styled.div`
   margin-top: 30px;
-  width: 200px;
 `

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Content, Logo, SearchBar } from './styles';
+import { Container, Logo, SearchBar } from './styles';
 
 import Actions from '../../components/Actions/Actions';
 

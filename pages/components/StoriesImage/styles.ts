@@ -13,6 +13,10 @@ export const StoriesThumbnail = styled.img`
   border-radius: 50%;
   margin: 0 7px;
   border: 2px solid red;
+  @media(max-width: 750px){
+    width: 56px;
+    height: 56px;
+  }
 `
 
 export const Username = styled.p`

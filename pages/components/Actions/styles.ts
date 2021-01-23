@@ -1,16 +1,16 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  width: 250px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: end;
 `;
 
 export const Action = styled.img`
   width: 20px;
   height: 20px;
+  margin-right: 20px;
 `
 
 export const Profile = styled.img`

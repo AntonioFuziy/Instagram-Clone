@@ -7,7 +7,7 @@ const FeedActions: React.FC = () => {
     <Container>
       <LeftContent>
         <LeftIcons src={"./img/like.svg"}/>
-        <LeftIcons src={"./img/send.svg"}/>
+        <LeftIcons src={"./img/comment.svg"}/>
         <LeftIcons src={"./img/send.svg"}/>
       </LeftContent>
       <FavoriteIcon src={"./img/bookmark.svg"}/>      
